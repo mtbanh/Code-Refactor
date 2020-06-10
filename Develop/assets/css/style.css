@@ -20,10 +20,6 @@ header h1 {
     font-size: 48px;
 }
 
-header h1 .seo {
-    color: #d9dcd6;
-}
-
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -48,6 +44,14 @@ a {
 
 p {
     font-size: 16px;
+}
+
+h2, h3, h4 {
+    font-size: 2em;
+}
+
+h5, h6, h7 {
+    font-size: 1em;
 }
 
 .hero {
