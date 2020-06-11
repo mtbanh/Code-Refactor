@@ -8,8 +8,8 @@ A marketing company wanted to improve their source code to enhance efficiency, a
 ## Getting started and prerequisites
 A source code was provided with the html and all corresponding assets such as stylesheet(s) and images. Programs such as the following were utilized to process the code: 
 
-* Visual Studio Code-click here to a tutorial to install
-* Github repository-click here for tutorial to clone repository
+* Visual Studio Code-click [here](https://code.visualstudio.com/) to a tutorial to install
+* Github repository-click [here](https://help.github.com/en/github/getting-started-with-github/create-a-repo) for tutorial to clone repository
 
 ---
 
@@ -28,7 +28,7 @@ A source code was provided with the html and all corresponding assets such as st
 ---
 
 ## Deployed link
-[See live site] ()
+[See live site] (https://mtbanh.github.io/Code-Refactor/)
 
 ---
 
